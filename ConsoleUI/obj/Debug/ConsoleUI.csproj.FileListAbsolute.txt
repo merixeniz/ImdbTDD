@@ -1,0 +1,27 @@
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\xunit.abstractions.dll
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\xunit.runner.utility.desktop.dll
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\xunit.execution.desktop.dll
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\ConsoleUI.exe
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\ConsoleUI.pdb
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\ImdbCommunication.Tests.dll
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\xunit.core.dll
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\xunit.assert.dll
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\ImdbCommunication.Tests.pdb
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\xunit.core.pdb
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\xunit.core.xml
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\xunit.assert.pdb
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\xunit.assert.xml
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\obj\Debug\ConsoleUI.exe
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\obj\Debug\ConsoleUI.pdb
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\obj\Debug\ConsoleUI.csproj.App.config
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\ConsoleUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\piotrs.PIOTRS-KOMP\Desktop\imdb\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\piotrs.PIOTRS-KOMP\Desktop\imdb\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\piotrs.PIOTRS-KOMP\Desktop\imdb\ConsoleUI\obj\Debug\ConsoleUI.pdb

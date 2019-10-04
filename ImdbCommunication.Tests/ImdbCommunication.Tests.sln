@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImdbCommunication.Tests", "ImdbCommunication.Tests.csproj", "{D6EE2148-DB99-422A-BDC9-B9DE75717E09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C551D0F2-49D8-4397-B902-2816965B930D}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "..\ConsoleUI\ConsoleUI.csproj", "{1AE27A62-855D-48B5-8188-9517AF777F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6EE2148-DB99-422A-BDC9-B9DE75717E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EE2148-DB99-422A-BDC9-B9DE75717E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EE2148-DB99-422A-BDC9-B9DE75717E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EE2148-DB99-422A-BDC9-B9DE75717E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE27A62-855D-48B5-8188-9517AF777F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE27A62-855D-48B5-8188-9517AF777F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE27A62-855D-48B5-8188-9517AF777F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE27A62-855D-48B5-8188-9517AF777F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
